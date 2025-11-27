@@ -1,0 +1,10 @@
+Sources used to make project:
+
+https://www.youtube.com/watch?v=6RNtB--oGiw – How to play top trumps
+https://github.com/axmolengine/axmol/ - Axmol engine, fork of cocos2dx v4 (game engines)
+https://github.com/axmolengine/axmol/blob/dev/docs/DevSetup.md - how to install axmol
+https://github.com/axmolengine/axmol/wiki/Introduction-to-Game-Dev-using-Axmol - how to use axmol
+https://www.codeandweb.com/texturepacker/tutorials/animations-and-spritesheets-in-axmol-engine - how to put in animation and spritesheets in your game.
+https://www.piskelapp.com/ - Website used to create assets
+
+https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle - FISHER-YATES SHUFFLE
