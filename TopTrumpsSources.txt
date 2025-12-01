@@ -9,3 +9,4 @@ https://www.piskelapp.com/ - Website used to create assets
 
 https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle - FISHER-YATES SHUFFLE
 https://cplusplus.com/reference/random/mt19937/ - Used to make the rng for fisher-yates
+https://www.youtube.com/watch?v=k6juv3mIr9o - How to install GCC/MinGW on windows
